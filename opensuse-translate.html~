@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="google-translate-customization" content="1b1f0ad95bb4f813-4aa36e5f41363280-g1135ed4bb51ea1cf-18"></meta>
+<meta name="google-translate-customization" content="f10183ca5d8f3629-8d6d2869d5c466c2-gc744e776d924d9b8-18"></meta>
 
 <title>Mobile Multi-page Template</title>
 <link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.css" />
@@ -34,7 +34,7 @@ top.location.href = location.href;
 <div data-role="content" >
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false, multilanguagePage: true}, 'google_translate_element');
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
